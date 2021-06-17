@@ -1,0 +1,2 @@
+mytest('oja', 2, 50, ["images/bike.jpg", "images/face.jpg"],'random', [10000, 1000], 'corrupted', [2, 25, 10,10])
+mytest('oja', 2, 50, ["images/bike.jpg", "images/face.jpg"],'random', [10000, 1000], 'partial', [2, 30, 1,1])
